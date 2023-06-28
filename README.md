@@ -1,1 +1,1 @@
-# learnkdb
+# learnkdb with git basics
